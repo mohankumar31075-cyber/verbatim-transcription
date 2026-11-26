@@ -1,0 +1,3 @@
+[submodule "Verba"]
+	path = Verba
+	url = https://github.com/weaviate/Verba.git
